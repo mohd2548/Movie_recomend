@@ -1,3 +1,2 @@
-similarity.pkl filter=lfs diff=lfs merge=lfs -text
 similarity.pkl
 git[[:space:]]lfs[[:space:]]migrate[[:space:]]import[[:space:]]--include=similarity.pkl filter=lfs diff=lfs merge=lfs -text
